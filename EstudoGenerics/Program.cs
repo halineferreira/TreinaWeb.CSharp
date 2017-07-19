@@ -22,8 +22,8 @@ namespace EstudoGenerics
                 Especie = "Cachorro"
             };
 
-            RepositorioPessoa repositorioPessoa = new RepositorioPessoa();
-            RepositorioAnimal repositorioAnimal = new RepositorioAnimal();
+            RepositorioGenerico<Pessoa> repositorioPessoa = new RepositorioGenerico<Pessoa>();
+            RepositorioGenerico<Animal> repositorioAnimal = new RepositorioGenerico<Animal>();
 
             repositorioPessoa.Insert(pessoa);
             repositorioAnimal.Insert(animal);
