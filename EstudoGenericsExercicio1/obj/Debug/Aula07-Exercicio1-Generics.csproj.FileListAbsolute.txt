@@ -1,0 +1,6 @@
+C:\Users\haline.ferreira\OneDrive - Programmer's Informática Ltda\Haline\Projects\TreinaWeb.CSharp\EstudoGenericsExercicio1\bin\Debug\EstudoGenericsExercicio1.exe.config
+C:\Users\haline.ferreira\OneDrive - Programmer's Informática Ltda\Haline\Projects\TreinaWeb.CSharp\EstudoGenericsExercicio1\bin\Debug\EstudoGenericsExercicio1.exe
+C:\Users\haline.ferreira\OneDrive - Programmer's Informática Ltda\Haline\Projects\TreinaWeb.CSharp\EstudoGenericsExercicio1\bin\Debug\EstudoGenericsExercicio1.pdb
+C:\Users\haline.ferreira\OneDrive - Programmer's Informática Ltda\Haline\Projects\TreinaWeb.CSharp\EstudoGenericsExercicio1\obj\Debug\Aula07-Exercicio1-Generics.csprojResolveAssemblyReference.cache
+C:\Users\haline.ferreira\OneDrive - Programmer's Informática Ltda\Haline\Projects\TreinaWeb.CSharp\EstudoGenericsExercicio1\obj\Debug\EstudoGenericsExercicio1.exe
+C:\Users\haline.ferreira\OneDrive - Programmer's Informática Ltda\Haline\Projects\TreinaWeb.CSharp\EstudoGenericsExercicio1\obj\Debug\EstudoGenericsExercicio1.pdb
